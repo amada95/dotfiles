@@ -1,3 +1,2 @@
-# dotfiles
-a repository to store my dotfiles and relevant configs for *NIX systems :)
+# dotfiles has been [RELOCATED](https://git.sr.ht/~amada95/dotfiles/)
 
